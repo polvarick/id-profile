@@ -1,0 +1,53 @@
+
+    .image{
+     height: 250px;
+     width: 100%;
+     
+     border-top-left-radius: 20px;
+     border-top-right-radius: 20px;
+     
+    }
+    
+    .profile-information{
+     text-align: center;
+     border-style: solid;
+     border-top-left-radius: 20px;
+     border-top-right-radius: 20px;
+     border-bottom-left-radius: 20px;
+     border-bottom-right-radius: 20px;
+     margin: 100px;
+     border-width: 1px;
+     border-color: skyblue;
+     height: 80vh;
+     margin-top: 0px;
+ 
+    }
+    .paragraph{
+     margin-bottom: 0px;
+     color: grey;
+    }
+    .heading{
+     margin-bottom: 0px;
+     font-weight: bold;
+     font-family: "roboto";
+     
+    }
+    .number-profile{
+     text-align: left;
+     padding: 20px
+    ;
+    }
+    .paragraph2{
+     margin-top: 5px;
+     color: rgb(7, 185, 239);
+    }
+    .website-name{
+    color: rgb(2, 172, 239);
+    text-decoration: none;
+    
+    }
+ 
+.heading2{
+    text-align: center;
+   
+}    
